@@ -1,2 +1,2 @@
-# projeto-devFinances
- Projeto elaborado pela a rockeseat que tem como característica calcular entradas e saídas no aspecto financeiro. Esse também é o  primeiro projeto que eu fiz utilizando JavaScript.
+# projeto-devFina 
+Esse projeto é voltado para o aspecto financeiro e tem como funcionalidade calcular minhas despesas e ganhos. Esse projeto foi o meu primeiro contato com o JavaScript.
